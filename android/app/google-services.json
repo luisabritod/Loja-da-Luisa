@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272093110524",
+    "project_id": "luisa-store",
+    "storage_bucket": "luisa-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272093110524:android:676cf6ca22eebcc7d2f779",
+        "android_client_info": {
+          "package_name": "br.com.britodias.luisa_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRBWH2yGIcn6M9NnCe17OaKQzEDUYpeLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
