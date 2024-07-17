@@ -18,6 +18,11 @@ final ThemeData lightTheme = ThemeData(
   appBarTheme: AppBarTheme(
     backgroundColor: AppColors.primaryColor,
     titleTextStyle: AppTextStyles.headline1.copyWith(color: Colors.white),
+    iconTheme: const IconThemeData(color: AppColors.backgroundColorLight),
+  ),
+  drawerTheme: const DrawerThemeData(
+    elevation: 0,
+    backgroundColor: AppColors.backgroundColorLight,
   ),
   buttonTheme: const ButtonThemeData(
     buttonColor: AppColors.primaryColor,

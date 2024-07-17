@@ -19,6 +19,11 @@ final ThemeData darkTheme = ThemeData(
     backgroundColor: AppColors.primaryColorDark,
     titleTextStyle:
         AppTextStyles.headline1.copyWith(color: AppColors.backgroundColorDark),
+    iconTheme: const IconThemeData(color: AppColors.backgroundColorDark),
+  ),
+  drawerTheme: const DrawerThemeData(
+    elevation: 0,
+    backgroundColor: AppColors.backgroundColorDark,
   ),
   buttonTheme: const ButtonThemeData(
     buttonColor: AppColors.primaryColorDark,
